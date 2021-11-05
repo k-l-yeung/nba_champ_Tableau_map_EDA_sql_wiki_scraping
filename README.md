@@ -8,8 +8,8 @@
 
 
 
-![image](https://user-images.githubusercontent.com/58142773/140462971-d90244e7-9e15-4b47-8d0c-c7b60ec7268a.png)
-![image](https://user-images.githubusercontent.com/58142773/140463188-5312800b-ee7f-4e5b-a223-4035bfc8a1c2.png)
+![image](https://user-images.githubusercontent.com/58142773/140463317-234bb3f2-ead5-488b-98c4-e2071c3d7b07.png)
+![nemesis](https://user-images.githubusercontent.com/58142773/140463326-8b16aba7-7330-4f21-a351-32d037417b4a.PNG)
 
 
 #### Method
@@ -23,16 +23,16 @@ Data sources
 - [Current NBA teams](https://en.wikipedia.org/wiki/National_Basketball_Association#Teams)
 
 #### Questions
-1. Most frequency NBA Finals Outcome  
-2. Total Championship Won by each Team
-3. Total Title Loss by each Team
-4. Which franchise has lost most often in the NBA finals
-5. Which teams made the finals but never won the championship?
-6. Which team were swept in the NBA Finals and in what year?
-7. Which year and teams pushed to a game 7 in the NBA Finals?
-8. Which city has endured the most NBA Finals loss
-9. Of teams who have won at least one championship, what is the probability that a team win if they make it to the final?
-10. Who is each team nemesis? For each team that made the NBA finals, to whom did they lose to for at least twice?
+Most frequency NBA Finals Outcome
+Total Championship Won by each Team
+Total Title Loss by each Team
+Which franchise has lost most often in the NBA finals
+Which teams made the finals but never won the championship?
+Which team were swept in the NBA Finals and in what year?
+Which year and teams pushed to a game 7 in the NBA Finals?
+Which city has endured the most NBA Finals loss
+Of teams who have won at least one championship, what is the probability that a team win if they make it to the final?
+Who is each team nemesis? For each team that made the NBA finals, to whom did they lose to for at least twice?
 
 2. About the author: Kam Leung Yeung (Sam)¶
 * PhD in Cognitive Psychology, Iowa State University in Ames, Iowa, USA
