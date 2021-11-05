@@ -9,8 +9,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/58142773/140463317-234bb3f2-ead5-488b-98c4-e2071c3d7b07.png)
-![nemesis](https://user-images.githubusercontent.com/58142773/140463326-8b16aba7-7330-4f21-a351-32d037417b4a.PNG)
-
+![Nemesis](https://user-images.githubusercontent.com/58142773/140463502-831931dc-98c7-4bdd-b8bf-6010e0c4eafb.PNG)
 
 #### Method
 Skills
@@ -21,8 +20,7 @@ Skills
 Data sources
 - [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions)
 - [Current NBA teams](https://en.wikipedia.org/wiki/National_Basketball_Association#Teams)
-
-#### Questions
+Questions
 Most frequency NBA Finals Outcome
 Total Championship Won by each Team
 Total Title Loss by each Team
