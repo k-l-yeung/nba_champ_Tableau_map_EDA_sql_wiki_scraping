@@ -21,7 +21,7 @@ Data sources
 - [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions)
 - [Current NBA teams](https://en.wikipedia.org/wiki/National_Basketball_Association#Teams)
 
-Questions answered in this project in sql
+### Questions answered in this project in sql
 - Most frequency NBA Finals Outcome
 - Total Championship Won by each Team
 - Total Title Loss by each Team
@@ -33,7 +33,7 @@ Questions answered in this project in sql
 - Of teams who have won at least one championship, what is the probability that a team win if they make it to the final?
 - Who is each team nemesis? For each team that made the NBA finals, to whom did they lose to for at least twice?
 
-### <a id='overview'>About the author: Kam Leung Yeung (Sam)</a>
+### <a id='overview'>2. About the author: Kam Leung Yeung (Sam)</a>
 * PhD in Cognitive Psychology, Iowa State University in Ames, Iowa, USA
 **Social media**:
 * [LinkedIn](https://www.linkedin.com/in/kamleungyeung/)
