@@ -22,9 +22,9 @@ Data sources
 - [Current NBA teams](https://en.wikipedia.org/wiki/National_Basketball_Association#Teams)
 
 Questions
-. Most frequency NBA Finals Outcome
-2. Total Championship Won by each Team
-3. Total Title Loss by each Team
+a. Most frequency NBA Finals Outcome
+b. Total Championship Won by each Team
+c. Total Title Loss by each Team
 Which franchise has lost most often in the NBA finals
 Which teams made the finals but never won the championship?
 Which team were swept in the NBA Finals and in what year?
