@@ -21,17 +21,17 @@ Data sources
 - [List of NBA champions](https://en.wikipedia.org/wiki/List_of_NBA_champions)
 - [Current NBA teams](https://en.wikipedia.org/wiki/National_Basketball_Association#Teams)
 
-Questions
-a. Most frequency NBA Finals Outcome
-b. Total Championship Won by each Team
-c. Total Title Loss by each Team
-Which franchise has lost most often in the NBA finals
-Which teams made the finals but never won the championship?
-Which team were swept in the NBA Finals and in what year?
-Which year and teams pushed to a game 7 in the NBA Finals?
-Which city has endured the most NBA Finals loss
-Of teams who have won at least one championship, what is the probability that a team win if they make it to the final?
-Who is each team nemesis? For each team that made the NBA finals, to whom did they lose to for at least twice?
+Questions answered in this project in sql
+- Most frequency NBA Finals Outcome
+- Total Championship Won by each Team
+- Total Title Loss by each Team
+- Which franchise has lost most often in the NBA finals
+- Which teams made the finals but never won the championship?
+- Which team were swept in the NBA Finals and in what year?
+- Which year and teams pushed to a game 7 in the NBA Finals?
+- Which city has endured the most NBA Finals loss
+- Of teams who have won at least one championship, what is the probability that a team win if they make it to the final?
+- Who is each team nemesis? For each team that made the NBA finals, to whom did they lose to for at least twice?
 
 2. About the author: Kam Leung Yeung (Sam)¶
 * PhD in Cognitive Psychology, Iowa State University in Ames, Iowa, USA
